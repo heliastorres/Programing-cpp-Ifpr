@@ -2,13 +2,14 @@
 #include <cmath>
 using namespace std; 
 
-int main () {            //ERROR CODE
+int main () {            
 
     int raio;
     float area;
-    area = raio*raio*3.14159;
-
     cin >> raio;
+    
+    area = raio*raio*3.14159;
+    
     cout << "area=" << area << endl;
 
     return 0;

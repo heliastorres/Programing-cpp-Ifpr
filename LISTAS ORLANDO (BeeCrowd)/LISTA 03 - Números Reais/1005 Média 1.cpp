@@ -1,14 +1,16 @@
 #include <iostream>
-#include <cmath>
-using namespace std; 
-
-int main () {            
-
-    double A, B, media;
-
+#include <iomanip>
+using namespace std;
+ 
+int main() {
+ 
+    double A, B, MEDIA;
     cin >> A >> B;
-    A = A * 3.5;
-    B = B * 7.5;
-
+    MEDIA = ((A*3.5)+(B*7.5))/11;
+    
+    
+    cout << fixed << setprecision(5) << "MEDIA = " << MEDIA << endl;
+    
+    
     return 0;
 }
