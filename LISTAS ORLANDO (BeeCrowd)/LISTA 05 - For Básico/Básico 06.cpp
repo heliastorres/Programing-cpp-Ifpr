@@ -2,6 +2,17 @@
 using namespace std;
 
 int main() {
-    cout << "Olá VS Code!" << endl;
+    
+    int a, i;
+
+    cin >> a;
+
+    if (a % 2 == 0) {
+        for (i = 1; i <= a; i += 2) {
+            cout << i << endl;
+        }
+    }
+    
+
     return 0;
 }
