@@ -1,0 +1,4 @@
+O código pertence à classe de funções lineares O(n), e não quadráticas 
+, pois cada elemento do vetor é processado uma única vez.
+no seu pior caso, todos os elementos são pares então a função seria T(n) = 4n + 2 
+função de complexidade assintótica.
