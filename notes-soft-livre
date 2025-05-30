@@ -1,0 +1,34 @@
+alias - apelido para comando.
+$ alias poweroff='sudo poweroff'
+
+
+
+
+
+for N in 1 2 3 4 5 ; do
+   echo $ (($N + 10)) ;
+done
+
+
+
+
+for i in {1..4} ; do mkdir dir${i} ; done
+
+
+
+
+
+chmod - mudar permissão de algum arquivo.
+chmod u+X nome_do_arquivo
+
+
+
+
+
+man - navegar pelo man
+$man man
+/and
+"and" - palavra que quer buscar
+
+
+pushd - muda de diretoria mas lembra onde eu tava
