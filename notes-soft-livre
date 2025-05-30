@@ -1,3 +1,9 @@
+ferramentas 
+make
+git
+
+
+
 alias - apelido para comando.
 $ alias poweroff='sudo poweroff'
 
