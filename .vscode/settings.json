@@ -44,5 +44,6 @@
         "streambuf": "cpp",
         "typeinfo": "cpp"
     },
-    "java.compile.nullAnalysis.mode": "automatic"
+    "java.compile.nullAnalysis.mode": "automatic",
+    "C_Cpp.default.compilerPath": "C:/MinGW/bin/gcc.exe"
 }
