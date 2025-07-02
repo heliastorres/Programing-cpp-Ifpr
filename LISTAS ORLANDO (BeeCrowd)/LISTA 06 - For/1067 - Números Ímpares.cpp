@@ -10,6 +10,7 @@ int main () {
     for (i = 1; i <= valor; i += 2) {
         cout << i << endl;
         //git
+        //git2
     }
 
     return 0;
