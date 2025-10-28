@@ -4,3 +4,5 @@ class Fiderapariga():
 
 pessoa = Fiderapariga("Advaldo")
 print(pessoa.nome)
+
+mudanca
